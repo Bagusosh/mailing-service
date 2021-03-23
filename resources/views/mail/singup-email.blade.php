@@ -9,6 +9,6 @@
 <body>
     <h1>{{$data['title']}}</h1>
     <p>{{$data['body']}}<p>
-    <p>Thank U so Much</p>
+    <p>Selamat Anda Dipilih Menjadi Kandidat</p>
 </body>
 </html>
